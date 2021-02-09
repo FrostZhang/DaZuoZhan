@@ -1,0 +1,4 @@
+﻿AndroidRes/AndroidRes:8bc04e03fa759e035c1768123bdc0d15
+AndroidRes/AndroidRes.manifest:5d311a3bc5fa39f7d200fdd51e872f78
+AndroidRes/music/eff:2fdc4eac806244f3bf8699f7e6788481
+AndroidRes/music/eff.manifest:98b9536dce3098b0fd899a5ad9f87f47
